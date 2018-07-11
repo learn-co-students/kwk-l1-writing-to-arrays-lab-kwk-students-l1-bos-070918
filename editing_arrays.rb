@@ -9,3 +9,5 @@ end
 def add_colors
   $rainbow_colors.push("green", "blue")
 end
+
+puts $rainbow_colors
