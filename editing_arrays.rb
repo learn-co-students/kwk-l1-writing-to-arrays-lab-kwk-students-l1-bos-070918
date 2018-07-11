@@ -9,7 +9,7 @@ def change_rainbow_colors
 end  
 
 def add_colors
-   $rainbow_colors.push["Green", "Blue"]
+   $rainbow_colors.push("green", "blue")
 end
 
  change_rainbow_colors
